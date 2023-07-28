@@ -3,6 +3,7 @@ public class class3 {
 
 	
 	//オーバーロード
+	
 	public static void main(String args[]){
 		  int n = plus(10, 7);
 		  System.out.println(n);
