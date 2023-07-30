@@ -1,7 +1,6 @@
 
 public class class4 {
 
-	public class Main {
 	    
 	    public static void main(String args[]) {
 	        msg("佐藤");
@@ -15,5 +14,4 @@ public class class4 {
 	    static void msg(String name, String greeting) {
 	        System.out.println(greeting + "、" + name + "です");
 	    }
-	}
 }
