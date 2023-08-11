@@ -8,4 +8,6 @@ public class class9 {
 public static void main(String[] args) {
         disp_val(100);
 }    
+
+
 }
