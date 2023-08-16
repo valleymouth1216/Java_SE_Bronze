@@ -42,6 +42,12 @@ public static void main(String args[]){
   }
   
   
-  
+
+      
+      Calculation cal = new Calculation();
+      System.out.println("引数2つ(int型)のメソッド：" + cal.add(2,2));
+      System.out.println("引数1つ(int型)のメソッド：" + cal.add(10));
+      System.out.println("引数2つ(double型)のメソッド：" + cal.add(2.5,1.1));
+
   
 }
