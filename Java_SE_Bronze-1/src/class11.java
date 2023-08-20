@@ -17,7 +17,10 @@ public class class11 {
 		}
 }
 
-class JSample8_1{
+
+
+
+class JSample11_1{
 	  public static void main(String args[]){
 	    System.out.println(plus(10, 7));
 	    System.out.println(plus(3.2, 4));
