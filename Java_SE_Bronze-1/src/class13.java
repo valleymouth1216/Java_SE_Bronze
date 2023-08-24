@@ -1,5 +1,5 @@
 
-public class Class13 {
+public class class13 {
  
         public static void disp_val(char val) {
                 System.out.println("char型の" + val);
@@ -33,6 +33,7 @@ public class Class13 {
                 disp_val(100.0f);
                 disp_val(100.0d);
         }
+        
         
 }
  
