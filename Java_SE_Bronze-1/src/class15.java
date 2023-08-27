@@ -1,35 +1,19 @@
 
 public class class15 {
-	public static void main(String[] args) {
-		Person person1 = new Person("山田");
-		person1.introduce();
-		Person person2 = new Person(30);
-		person2.introduce();
-		Person person3 = new Person("佐藤", 24);
-		person3.introduce();
-	}
+    public static void main(String[] args) {
+        System.out.println(add(1, 2)); // (1)が呼び出される
+        System.out.println(add(1, 2, 3)); // (2)が呼び出される
+    }
+
+    public static int add(int x, int y) { // (1)引数が2つ
+        int num = x + y;
+        return num;
+    }
+
+    public static int add(int x, int y, int z) { // (2)引数が3つ
+        int num = x + y + z;
+        return num;
+    }
 }
  
-class Person {
-	String name;
-	int age;
-	
-	Person(String name) {
-		this.name = name;
-		this.age = 999;
-	}
-	
-	Person(int age) {
-		this.name = "名無し";
-		this.age = age;
-	}
-	
-	Person(String name, int age) {
-		this.name = name;
-		this.age = age;
-	}
-	
-	public void introduce() {
-		System.out.println("名前は:" + name + " 年齢は:" + age + "です。");
-	}
-}
+
