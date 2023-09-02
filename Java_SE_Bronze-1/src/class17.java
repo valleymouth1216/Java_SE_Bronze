@@ -1,22 +1,34 @@
 
 public class class17 {
 
+    //メソッド１
+    public void hoge(){
+        System.out.println("hoge-None");
+    }
 
-String color;
+    //メソッド２
+    public void hoge(String a){
+        System.out.println("hoge-String");
+    }
 
-public SampleRobot() {  // コンストラクタ
-    System.out.println("こんにちは。");
-}
+    //メソッド３
+    public void hoge(String a, int i){
+        System.out.println("hoge-StringInt");
+    }
 
-public SampleRobot(String color) {  // 色を指定する場合のコンストラクタ
-    this.color = color;
-    System.out.println("こんにちは。私の色は" + color + "です。");
-}
-}
+    //メソッド４
+    public void hoge(int i, String a){
+        System.out.println("hoge-intString");
+    }
 
-public class Java_overload {
-public static void main(String[] args) {
-    SampleRobot robot = new SampleRobot();
-    SampleRobot blueRobot = new SampleRobot("青");
-}
+    //throws句が異なってもオーバーロードにはならない（エラーになる）
+    //public void hoge() throws Exception{
+    //    System.out.println("hoge");
+    //}
+
+    //アクセス修飾子が異なってもオーバーロードにはならない（エラーになる）
+    //private void hoge(){
+    //    System.out.println("hoge");
+    //}
+
 }
