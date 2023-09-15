@@ -13,4 +13,7 @@ public class class20 {
 //    処理;
 //}
 	
+	
+	
+	
 }
