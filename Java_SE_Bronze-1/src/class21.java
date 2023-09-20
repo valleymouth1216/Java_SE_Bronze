@@ -32,4 +32,8 @@ public class class21 {
 	    double num = x + y;
 	    return num;
 	}
+	
+	
+	
+	
 }
