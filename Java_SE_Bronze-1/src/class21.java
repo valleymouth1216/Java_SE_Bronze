@@ -34,11 +34,4 @@ public class class21 {
 	}
 	
 	
-	
-	
-	
-	
-	
-	
-	
 }
