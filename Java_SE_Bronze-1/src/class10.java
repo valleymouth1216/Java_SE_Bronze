@@ -10,10 +10,6 @@ public static void disp_val(float val) {
 
 
 
-
-
-      
-
 public static void main(String args[]){
     System.out.println(plus(10, 7));
     System.out.println(plus(3.2, 4));
@@ -40,6 +36,30 @@ public static void main(String args[]){
     System.out.println("double + double");
     return d1 + d2;
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 }
