@@ -36,30 +36,7 @@ public static void main(String args[]){
     System.out.println("double + double");
     return d1 + d2;
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+ 
   
   
 }
