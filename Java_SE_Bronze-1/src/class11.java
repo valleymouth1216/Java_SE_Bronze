@@ -16,9 +16,6 @@ public class class11 {
 		  return d1 + d2;
 		}
 		
-		
-		
-		
 
 }
 
