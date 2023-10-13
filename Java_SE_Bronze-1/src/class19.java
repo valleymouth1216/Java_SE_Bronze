@@ -30,14 +30,6 @@ public class class19 {
     //private void hoge(){
     //    System.out.println("hoge");
     //}
-    
-    
-    
-    
-    
-    
-    
-
-
+  
 
 }
