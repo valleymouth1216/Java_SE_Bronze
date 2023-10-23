@@ -1,12 +1,5 @@
 
 public class class24 {
 
-	
-	
-	
 
-	
-	
-	
-	
 }
