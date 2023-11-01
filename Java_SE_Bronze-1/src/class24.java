@@ -3,12 +3,3 @@ public class class24 {
 
 
 }
-
-
-
-
-
-
-
-
-
