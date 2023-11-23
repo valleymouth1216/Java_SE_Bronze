@@ -33,7 +33,4 @@ public class class23 {
 	    return num;
 	}
 	
-
-	
-	
 }
