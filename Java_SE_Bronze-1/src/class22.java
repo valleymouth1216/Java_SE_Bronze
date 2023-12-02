@@ -1,10 +1,5 @@
 
 public class class22 {
 
-	
-	
-	
-	
-	
-	
+
 }
