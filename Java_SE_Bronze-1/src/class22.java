@@ -3,12 +3,5 @@ public class class22 {
 
 
 	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
