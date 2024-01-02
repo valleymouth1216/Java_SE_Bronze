@@ -4,14 +4,4 @@ public class class22 {
 
 	
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
