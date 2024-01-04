@@ -1,7 +1,4 @@
 
 public class class22 {
-
-
-	
 	
 }
