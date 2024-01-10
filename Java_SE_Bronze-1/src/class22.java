@@ -2,10 +2,4 @@
 public class class22 {
 
 	
-	
-	
-	
-	
-	
-	
 }
