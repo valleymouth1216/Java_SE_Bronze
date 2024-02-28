@@ -7,9 +7,3 @@ public class class22 {
 	
 	
 }
-
-
-
-
-
-
