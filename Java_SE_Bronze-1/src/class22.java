@@ -8,13 +8,3 @@ public class class22 {
 	
 }
 
-
-
-
-
-
-
-
-
-
-
