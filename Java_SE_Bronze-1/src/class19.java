@@ -20,6 +20,9 @@ public class class19 {
     public void hoge(int i, String a){
         System.out.println("hoge-intString");
     }
+    
+    
+    
 
     //throws句が異なってもオーバーロードにはならない（エラーになる）
     //public void hoge() throws Exception{
