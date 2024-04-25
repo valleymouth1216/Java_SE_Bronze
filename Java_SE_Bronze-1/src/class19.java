@@ -22,6 +22,8 @@ public class class19 {
     }
     
     
+    
+    
 
     //throws句が異なってもオーバーロードにはならない（エラーになる）
     //public void hoge() throws Exception{
