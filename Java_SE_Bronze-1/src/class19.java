@@ -21,7 +21,6 @@ public class class19 {
         System.out.println("hoge-intString");
     }
     
-
     //throws句が異なってもオーバーロードにはならない（エラーになる）
     //public void hoge() throws Exception{
     //    System.out.println("hoge");

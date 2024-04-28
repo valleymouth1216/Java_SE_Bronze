@@ -1,4 +1,3 @@
-
 public class class1 {
 
 	
@@ -14,5 +13,4 @@ public class class1 {
 //    処理;
 //}
 	
-
 }
