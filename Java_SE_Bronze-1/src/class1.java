@@ -14,7 +14,3 @@ public class class1 {
 //}
 
 }
-
-
-
-
