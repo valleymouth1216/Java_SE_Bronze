@@ -11,7 +11,10 @@ public class class21 {
 	
 		
 
-	public static int add(int x, int y) { // (1) int, int
+
+	
+	
+	static int add(int x, int y) { // (1) int, int
 	    int num = x + y;
 	    return num;
 	}
