@@ -8,13 +8,6 @@ public class class21 {
 	    System.out.println(add(1.2, 3));    // (5)が呼び出される
 	}
 	
-	
-	
-	
-	
-	
-	
-	
 	static int add(int x, int y) { // (1) int, int
 	    int num = x + y;
 	    return num;
