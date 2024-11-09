@@ -1,6 +1,9 @@
 
 public class class21 {
 	public static void main(String[] args) {
+		
+		
+		
 	    System.out.println(add(1, 2));      // (1)が呼び出される
 	    System.out.println(add(1.2, 3.4));  // (2)が呼び出される
 	    System.out.println(add(1, 2, 3));   // (3)が呼び出される
